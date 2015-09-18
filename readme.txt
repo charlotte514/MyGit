@@ -23,3 +23,7 @@ git rm file:删除工作区与暂存区内容。
 git rm file + git commit:删除版本库内容，必须使用git reset --hard ID返回。
 git checkout -- file:用暂存区的内容覆盖工作区的内容，当两区内容一致或不存在暂存区内容时出错。
 git reset HEAD --file:用版本库的内容覆盖暂存区内容，对工作区无影响。
+
+ssh-key:so are you ok anny
+
+SHA256:xubh+cRNrLoMwBgV4QwVUnC3m+sNtBu5qp3x9OIDejI Charlotte514@163.com
